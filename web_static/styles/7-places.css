@@ -1,0 +1,25 @@
+.container .places h1 {
+    text-align: left;
+    font-size: 30px;
+    width: 100%;
+}
+
+.container .places h2 {
+    font-size: 30px;
+    margin-top: 0px;
+    text-align: center;
+}
+
+.places {
+    display: flex;
+    width: 100%;
+    flex-flow: row wrap;
+}
+
+.container .places article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: solid #FF5A5F 1px;
+    border-radius: 4px;
+}
