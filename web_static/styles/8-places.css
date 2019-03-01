@@ -57,6 +57,8 @@
 .places article .description {
     padding-top: 5px;
     text-align: left;
+    overflow-wrap: break-word;
+    margin-top: 15px;
 }
 
 .container .places h1 {
@@ -88,4 +90,5 @@
     position: relative;
     padding-right: 40px;
     z-index: -1;
+    padding-bottom: 5%;
 }
